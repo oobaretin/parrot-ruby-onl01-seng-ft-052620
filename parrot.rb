@@ -4,4 +4,4 @@ def parrot ("Squawk!", phrase="Pretty bird!")
 end
 
 
-parrot ("Pretty bird!")
+parrot ()
