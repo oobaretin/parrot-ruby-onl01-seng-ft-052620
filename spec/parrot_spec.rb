@@ -18,7 +18,7 @@ describe '#parrot' do
   end
 
   it 'should return the given phrase when called with an argument' do
-    phrase = parrot("Pretty bird!")
+   phrase= parrot("Pretty bird!")
 
     expect(phrase).to eq("Pretty bird!")
   end
