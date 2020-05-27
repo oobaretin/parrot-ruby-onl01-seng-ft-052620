@@ -4,4 +4,4 @@ def parrot (phrase="Squawk!")
 end
 
 
-parrot("Pretty bird!")
+phrase("Pretty bird!")
